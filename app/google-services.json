@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693930481324",
+    "project_id": "empcom-ed277",
+    "storage_bucket": "empcom-ed277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693930481324:android:9e05eda6175850d4723109",
+        "android_client_info": {
+          "package_name": "com.educationhub.empcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693930481324-9dsc1kcrtrr9bqh059c4vgbu77ims2kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAxHyxoIaYL5ZA0NBrO20EP6iWLMbTCYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693930481324-9dsc1kcrtrr9bqh059c4vgbu77ims2kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
